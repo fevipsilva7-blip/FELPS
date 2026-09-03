@@ -27,7 +27,7 @@
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif">
 
 ```yaml
-Nome: FELPS
+Nome: FELIPE
 Ocupação: Full Stack Developer / AI Enthusiast
 Idiomas: [Português, JavaScript, Python]
 Missão: Transformar café em código e ideias em soluções inteligentes.
