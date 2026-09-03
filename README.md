@@ -141,7 +141,7 @@ Modelo de machine learning aplicado a [caso de uso], com foco em precisão e per
 ## 🎯 `CURRENT_GOALS.sh` — Objetivos Atuais
 
 ```bash
-felps@dev:~$ ./check_goals.sh --status
+felipe@dev:~$ ./check_goals.sh --status
 
 [✓] Aprendendo........... Arquitetura de Microsserviços
 [✓] Estudando............ Inteligência Artificial & LLMs
