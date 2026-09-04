@@ -30,7 +30,9 @@
 Nome: FELIPE
 Ocupação: Full Stack Developer / AI Enthusiast
 Idiomas: [Português, JavaScript, Python]
-Missão: Transformar café em código e ideias em soluções inteligentes.
+Missão: >
+  Transformar café em código
+  e ideias em soluções inteligentes.
 Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: ██████████ 100% ]
 ```
 
@@ -77,58 +79,40 @@ Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: █████████�
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🚀 Projeto Alpha
+### 📓 Field Notes
 ```
 > status: em produção
-> stack: React + Node.js + MongoDB
+> stack: HTML + CSS + JavaScript
 ```
-Uma plataforma inteligente que resolve [problema X] usando automação avançada e UX centrada no usuário.
+Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
 
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/projeto-alpha)
-[![Demo](https://img.shields.io/badge/DEMO-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🛰️ Projeto Beta
-```
-> status: em desenvolvimento
-> stack: Python + FastAPI + PostgreSQL
-```
-API de alta performance com processamento de dados em tempo real e arquitetura escalável.
-
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/projeto-beta)
-[![Docs](https://img.shields.io/badge/DOCS-ff00ff?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧬 Projeto Gamma
+### 💼 Portfólio
 ```
 > status: em produção
-> stack: Next.js + Tailwind + Firebase
+> stack: HTML + CSS + JavaScript
 ```
-Dashboard interativo com visualização de dados e sistema de autenticação robusto.
+Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
 
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/projeto-gamma)
-[![Demo](https://img.shields.io/badge/DEMO-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🔮 Projeto Delta
+### 🕹️ Memory Arcade
 ```
-> status: experimental
-> stack: Python + TensorFlow
+> status: em produção
+> stack: HTML + CSS + JavaScript
 ```
-Modelo de machine learning aplicado a [caso de uso], com foco em precisão e performance.
+Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
 
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/projeto-delta)
-[![Paper](https://img.shields.io/badge/PAPER-ff00ff?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
 
 </td>
 </tr>
@@ -141,7 +125,7 @@ Modelo de machine learning aplicado a [caso de uso], com foco em precisão e per
 ## 🎯 `CURRENT_GOALS.sh` — Objetivos Atuais
 
 ```bash
-felipe@dev:~$ ./check_goals.sh --status
+felps@dev:~$ ./check_goals.sh --status
 
 [✓] Aprendendo........... Arquitetura de Microsserviços
 [✓] Estudando............ Inteligência Artificial & LLMs
