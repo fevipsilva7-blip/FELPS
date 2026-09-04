@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20INITIALIZED&fontSize=45&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20FELPS%20neural%20network&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20INITIALIZED&fontSize=45&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Felipe%20neural%20network&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+FELPS;Full+Stack+%7C+AI+Enthusiast;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Felipe;Full+Stack+%7C+AI+Enthusiast;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,9 +27,9 @@
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif">
 
 ```yaml
-Nome: FELIPE
+Nome: Felipe
 Ocupação: Full Stack Developer / AI Enthusiast
-Idiomas: [Português, JavaScript, Python]
+Idiomas: [Português, Inglês, JavaScript, Python]
 Missão: >
   Transformar café em código
   e ideias em soluções inteligentes.
@@ -125,7 +125,7 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 ## 🎯 `CURRENT_GOALS.sh` — Objetivos Atuais
 
 ```bash
-felps@dev:~$ ./check_goals.sh --status
+felipe@dev:~$ ./check_goals.sh --status
 
 [✓] Aprendendo........... Arquitetura de Microsserviços
 [✓] Estudando............ Inteligência Artificial & LLMs
@@ -190,7 +190,8 @@ felps@dev:~$ ./check_goals.sh --status
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silva-09b088433/)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fepls_xzx/)
-[![Gmail](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](mailto:fevipsilva7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://fevipsilva7-blip.github.io/portfolio-site/)
 
 </div>
 
