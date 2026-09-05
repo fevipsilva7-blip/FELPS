@@ -29,8 +29,8 @@
 ```yaml
 Nome: Felipe
 Ocupação: Full Stack Developer / AI Enthusiast
-Idiomas: [Português, JavaScript, Html]
-Missão: Transformar café em código e ideias em soluções inteligentes.
+Idiomas: [Português,JavaScript,Html]
+Missão:Transformar café em código e ideias em soluções inteligentes.
 Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: ██████████ 100% ]
 ```
 
@@ -154,7 +154,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fevipsilva7-blip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=ff00ff&point=ffffff&area=true&area_color=00fff2" width="100%"/>
+<img src="https://github-readme-activity-graph-lyart.vercel.app/graph?username=fevipsilva7-blip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=ff00ff&point=ffffff&area=true&area_color=00fff2" width="100%"/>
 
 </div>
 
