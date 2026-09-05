@@ -29,10 +29,8 @@
 ```yaml
 Nome: Felipe
 Ocupação: Full Stack Developer / AI Enthusiast
-Idiomas: [Português, Inglês, JavaScript, Python]
-Missão: >
-  Transformar café em código
-  e ideias em soluções inteligentes.
+Idiomas: [Português, JavaScript, Html]
+Missão: Transformar café em código e ideias em soluções inteligentes.
 Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: ██████████ 100% ]
 ```
 
