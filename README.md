@@ -28,7 +28,6 @@
 
 ```yaml
 Nome: Felipe
-Localização: Terra, Via Láctea
 Ocupação: Full Stack Developer / AI Enthusiast
 Idiomas: [Português, Inglês, JavaScript, Python]
 Missão: >
