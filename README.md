@@ -29,8 +29,8 @@
 ```yaml
 Nome: Felipe
 Ocupação: Full Stack Developer / AI Enthusiast
-Idiomas: [Português,JavaScript,Html]
-Missão:Transformar café em código e ideias em soluções inteligentes.
+Idiomas: [Português, JavaScript,Html]
+Missão: Transformar café em código e ideias em soluções inteligentes.
 Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: ██████████ 100% ]
 ```
 
@@ -164,7 +164,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fevipsilva7-blip&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy-snowy-seven.vercel.app/?username=fevipsilva7-blip&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 
 </div>
 
@@ -204,7 +204,5 @@ felipe@dev:~$ ./check_goals.sh --status
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 **⚡ "Código bem escrito é poesia que máquinas entendem." ⚡**
-
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=00fff2&label=SIGNAL+RECEIVED&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ffevipsilva7-blip%2Freadme&style=for-the-badge&labelColor=0f0c29)
 
 </div>
